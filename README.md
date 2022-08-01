@@ -1,5 +1,5 @@
 ## Olá! Eu sou Vitor Henrique 👋
-### Cursando Análise e Desenvolvimento de Sistemas
+### Desenvolvedor Front End
 
 - 📫 Contato: vitorhenrique.a12@gmail.com
 
