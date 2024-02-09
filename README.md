@@ -1,8 +1,6 @@
 ## Olá! Eu sou Vitor Henrique 👋
 ### Desenvolvedor Front End
 
-- 📫 Contato: vitorhenrique.a12@gmail.com
-
 <div align="center">
   <a href="https://github.com/Vitor-HenriqueAS">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-HenriqueAS&layout=compact&langs_count=7&theme=nightowl"/>
